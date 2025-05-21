@@ -1,0 +1,8 @@
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L3_TryCatchExceptions_v2022\U3_L3_TryCatchExceptions_v2022\bin\Debug\U3_L3_TryCatchExceptions_v2022.exe.config
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L3_TryCatchExceptions_v2022\U3_L3_TryCatchExceptions_v2022\bin\Debug\U3_L3_TryCatchExceptions_v2022.exe
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L3_TryCatchExceptions_v2022\U3_L3_TryCatchExceptions_v2022\bin\Debug\U3_L3_TryCatchExceptions_v2022.pdb
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L3_TryCatchExceptions_v2022\U3_L3_TryCatchExceptions_v2022\obj\Debug\U3_L3_TryCatchExceptions_v2022.csproj.AssemblyReference.cache
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L3_TryCatchExceptions_v2022\U3_L3_TryCatchExceptions_v2022\obj\Debug\U3_L3_TryCatchExceptions_v2022.csproj.SuggestedBindingRedirects.cache
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L3_TryCatchExceptions_v2022\U3_L3_TryCatchExceptions_v2022\obj\Debug\U3_L3_TryCatchExceptions_v2022.csproj.CoreCompileInputs.cache
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L3_TryCatchExceptions_v2022\U3_L3_TryCatchExceptions_v2022\obj\Debug\U3_L3_TryCatchExceptions_v2022.exe
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L3_TryCatchExceptions_v2022\U3_L3_TryCatchExceptions_v2022\obj\Debug\U3_L3_TryCatchExceptions_v2022.pdb
